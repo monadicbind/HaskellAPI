@@ -1,2 +1,3 @@
 # HaskellAPI
-CRUD using Yesod ~ Persistent.
+
+## This repository will contain an implementation of REST service using Servant , Persistent (Yesod)
